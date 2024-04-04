@@ -23,6 +23,8 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "got": "^14.2.0",
+    "mkdirp": "^3.0.1",
+    "rimraf": "^5.0.5",
     "typescript": "^5.2.2",
     "vite": "^5.1.4"
   }
